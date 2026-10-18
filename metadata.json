@@ -1,0 +1,6 @@
+{
+  "name": "BLOODY SWEET",
+  "description": "Life Gets Complicated. We Make It Clear. Premium consulting web application for business strategy, personal decisions, career, problem-solving, and technology.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
